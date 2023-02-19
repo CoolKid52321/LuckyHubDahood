@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CoolKid52321/sdszdszdzsdsz/main/22222"))(); -- ui loader
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CoolKid52321/sdszdszdzsdsz/main/222222222"))(); -- ui loader
 
 repeat task.wait() until game:IsLoaded();
 
