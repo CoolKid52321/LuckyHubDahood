@@ -11,7 +11,7 @@ local timetoload = tick()
 _G.start = tick();
 
 local ids = {
-    ["2287245386"] = "https://raw.githubusercontent.com/BananaLover998/luckyhub1/main/luckyhub%20hoops%20aimbot.lua", -- hoopz
+    ["6229116934"] = "https://raw.githubusercontent.com/BananaLover998/luckyhub1/main/luckyhub%20hoops%20aimbot.lua", -- hoopz
     ["2788229376"] = "https://api.luarmor.net/files/v3/loaders/e8fe76ac4638d997beda37d02333edd6.lua"; -- dahood
 }
 
